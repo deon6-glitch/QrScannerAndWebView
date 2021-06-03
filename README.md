@@ -1,4 +1,4 @@
-# qrweb
+# QR Scanner And Web Viewer
 
 A new Flutter project.
 
